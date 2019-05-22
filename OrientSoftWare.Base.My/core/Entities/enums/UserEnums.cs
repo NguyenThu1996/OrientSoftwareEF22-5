@@ -11,7 +11,7 @@ namespace OrientSoftWare.Base.My.Entities.enums
         {
             Male = 1,
             Female = 2,
-            None = 3
+            None = 0
         }
     }
 }
