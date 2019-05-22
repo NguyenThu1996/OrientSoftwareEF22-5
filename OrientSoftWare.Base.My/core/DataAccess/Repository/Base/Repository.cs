@@ -71,7 +71,7 @@ namespace OrientSoftWareBaseMy.core.DataAccess.Repository.Base
 
         public Task<ResponseModel> SetRecordInactiveAsync(Guid id)
         {
-            throw new NotImplementedException();
+            
         }
 
         public Task<ResponseModel> UpdateAsync(T entity)
