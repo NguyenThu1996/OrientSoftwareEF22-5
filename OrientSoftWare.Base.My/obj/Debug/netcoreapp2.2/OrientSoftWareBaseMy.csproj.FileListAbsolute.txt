@@ -1,0 +1,14 @@
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\bin\Debug\netcoreapp2.2\OrientSoftWareBaseMy.deps.json
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\bin\Debug\netcoreapp2.2\OrientSoftWareBaseMy.runtimeconfig.json
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\bin\Debug\netcoreapp2.2\OrientSoftWareBaseMy.runtimeconfig.dev.json
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\bin\Debug\netcoreapp2.2\OrientSoftWareBaseMy.dll
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\bin\Debug\netcoreapp2.2\OrientSoftWareBaseMy.pdb
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.csprojAssemblyReference.cache
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.csproj.CoreCompileInputs.cache
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.RazorAssemblyInfo.cache
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.RazorAssemblyInfo.cs
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.AssemblyInfoInputs.cache
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.AssemblyInfo.cs
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.RazorTargetAssemblyInfo.cache
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.dll
+C:\Users\thu.nguyenvan\source\repos\OrientSoftWare.Base.My\OrientSoftWare.Base.My\obj\Debug\netcoreapp2.2\OrientSoftWareBaseMy.pdb
